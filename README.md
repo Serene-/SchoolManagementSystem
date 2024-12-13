@@ -8,7 +8,7 @@ the Repository Design Pattern for maintainability and scalability
 <h2>Features</h2>
 
 <br>Add Student: Register new students in the system.
-<b r>Add Course: Create and manage courses offered by the school.
+<br>Add Course: Create and manage courses offered by the school.
 <br>Add Teacher: Add teachers to the system.
 <br>Enroll a Student: Assign students to courses.
 <br>Assign Grades: Record student performance in courses.
