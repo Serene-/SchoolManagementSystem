@@ -7,13 +7,13 @@ the Repository Design Pattern for maintainability and scalability
 
 <h2>Features</h2>
 
-Add Student: Register new students in the system.
-Add Course: Create and manage courses offered by the school.
-Add Teacher: Add teachers to the system.
-Enroll a Student: Assign students to courses.
-Assign Grades: Record student performance in courses.
-View Student Report: Generate a detailed report of a student’s courses and grades.
-View All Courses: Display a list of all available courses.
+<br>Add Student: Register new students in the system.
+<b r>Add Course: Create and manage courses offered by the school.
+<br>Add Teacher: Add teachers to the system.
+<br>Enroll a Student: Assign students to courses.
+<br>Assign Grades: Record student performance in courses.
+<br>View Student Report: Generate a detailed report of a student’s courses and grades.
+<br>View All Courses: Display a list of all available courses.
 
 <h2>Technologies Used</h2>
 
